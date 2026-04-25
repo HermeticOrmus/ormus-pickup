@@ -66,9 +66,10 @@ If the config doesn't exist, the skill skips this step entirely. It's purely opt
 
 ## Pairs with
 
-- **[ormus-handoff](https://github.com/HermeticOrmus/ormus-handoff)** — the entry's other half. Run /handoff at session end, /pickup at session start.
+- **[ormus-handoff](https://github.com/HermeticOrmus/ormus-handoff)** — the other half. Run /handoff at session end, /pickup at session start.
 - **[ormus-absorb](https://github.com/HermeticOrmus/ormus-absorb)** — distill conversation knowledge into persistent memory so /pickup loads it automatically.
 - **[ormus-explore](https://github.com/HermeticOrmus/ormus-explore)** — token-efficient AST-based code search, useful during cold pickup when you need to read 6+ files.
+- **[ormus-vibe-proof](https://github.com/HermeticOrmus/ormus-vibe-proof)** — security hardening for vibe-coded full-stack apps.
 - **[ormus-meta-prompting](https://github.com/HermeticOrmus/ormus-meta-prompting)** — categorical foundations for AI prompt engineering.
 
 Together they form the **ormus session lifecycle** — composable Claude Code skills for serious cross-day, cross-machine work.
