@@ -1,0 +1,28 @@
+{
+  "name": "ormus-pickup",
+  "version": "1.0.0",
+  "description": "Restore session context at the start of a new Claude Code session. The entry ritual — inverse of /handoff.",
+  "author": "Diego Bodart / Ormus.Solutions",
+  "license": "MIT",
+  "homepage": "https://github.com/HermeticOrmus/ormus-pickup",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HermeticOrmus/ormus-pickup.git"
+  },
+  "keywords": [
+    "claude-code",
+    "claude",
+    "anthropic",
+    "ai-agents",
+    "skills",
+    "session-management",
+    "pickup",
+    "ormus"
+  ],
+  "skills": [
+    {
+      "name": "pickup",
+      "path": "SKILL.md"
+    }
+  ]
+}
