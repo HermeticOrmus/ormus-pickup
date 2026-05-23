@@ -81,3 +81,17 @@ MIT. See [LICENSE](LICENSE).
 ## Origin
 
 Distilled from real cross-day Claude Code engagements where re-establishing context cost ten minutes of re-explaining at the start of every session. The cold-pickup path emerged after enough sessions ended without a handoff that the skill needed a fallback. The optional remote routing emerged from patterns where the same project lives on multiple machines and "pickup" needs to know which one to look at.
+
+---
+
+## Part of the Libre Open-Source Stack for Claude Code
+
+This repository is part of a growing family of open-source toolkits for Claude Code, each focused on a specific lane:
+
+- [LibreUIUX-Claude-Code](https://github.com/HermeticOrmus/LibreUIUX-Claude-Code) — UI/UX system (152 agents, 70 plugins, 76 commands, 74 skills)
+- [LibreGEO-Claude-Code](https://github.com/HermeticOrmus/LibreGEO-Claude-Code) — AI-search optimization for ChatGPT, Perplexity, Gemini, Google AI Overviews
+- [LibreEmbed-Claude-Code](https://github.com/HermeticOrmus/LibreEmbed-Claude-Code) — Embedded systems, firmware, and IoT development
+- [LibreGameDev-Claude-Code](https://github.com/HermeticOrmus/LibreGameDev-Claude-Code) — Game development across Godot, Unity, Unreal
+- [LibreFinTech-Claude-Code](https://github.com/HermeticOrmus/LibreFinTech-Claude-Code) — Financial technology development
+
+Star the family, not just one — that's how the suite stays coherent.
