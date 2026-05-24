@@ -1,3 +1,14 @@
+> **Note (2026-05-23) — Consolidated into LibreSessionFlow**
+>
+> This standalone has been folded into the umbrella repo
+> [LibreSessionFlow-Claude-Code](https://github.com/HermeticOrmus/LibreSessionFlow-Claude-Code),
+> alongside 9 sibling session-lifecycle plugins. The current version of this
+> functionality lives at `plugins/pickup/` in the umbrella.
+>
+> This repo remains live as a landing page. New work happens in the umbrella.
+
+---
+
 # ormus-pickup
 
 > Restore session context at the start of a new Claude Code session. The entry ritual — the inverse of /handoff.
