@@ -9,9 +9,26 @@
 
 ---
 
-# ormus-pickup
+<p align="center">
+  <img src="https://ormus.solutions/mascot/chain_braces_to_swan.gif" alt="ormus-pickup" width="128" style="image-rendering: pixelated;" />
+</p>
 
-> Restore session context at the start of a new Claude Code session. The entry ritual — the inverse of /handoff.
+<h1 align="center">ormus-pickup</h1>
+
+<p align="center">
+  <em>Restore session context at the start of a new Claude Code session. Inverse of /handoff.</em>
+</p>
+
+<p align="center">
+  <a href="https://github.com/HermeticOrmus/ormus-pickup/stargazers"><img src="https://img.shields.io/github/stars/HermeticOrmus/ormus-pickup?style=flat-square&color=aa8142" alt="Stars" /></a>
+  <a href="https://github.com/HermeticOrmus/ormus-pickup/blob/main/LICENSE"><img src="https://img.shields.io/github/license/HermeticOrmus/ormus-pickup?style=flat-square&color=aa8142" alt="License" /></a>
+  <a href="https://github.com/HermeticOrmus/ormus-pickup/commits"><img src="https://img.shields.io/github/last-commit/HermeticOrmus/ormus-pickup?style=flat-square&color=aa8142" alt="Last Commit" /></a>
+  <img src="https://img.shields.io/badge/Claude_Code-aa8142?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
+</p>
+
+---
+
+> **Restore session context at the start of a new Claude Code session. The entry ritual — the inverse of /handoff.**
 
 A Claude Code skill that reads a `HANDOFF.md` from the previous session, loads the relevant files, and orients Claude to continue work exactly where it left off. When no handoff exists, it falls back to inferring context from git history and filesystem signals.
 
